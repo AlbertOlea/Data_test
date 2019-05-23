@@ -8,4 +8,4 @@ A simple hypothesis test used for proof of the existence of the correlation betw
 
                                     ----Project Two----
 
-Is there a linear relationship between the prices of harddrives and their capacity? Let'srun a hypothesis test!
+Is there a linear relationship between the prices of harddrives and their capacity? Let's run another hypothesis test!
